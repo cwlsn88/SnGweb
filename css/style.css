@@ -1,0 +1,24 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+
+#mainimg_container{
+	width: 700px;
+	height: 500px;
+	margin: auto;
+	margin-top: -15px;
+}
+
+.detail_panel{
+	padding: 10px 30px 10px 30px;
+	background-color: #436DBF;
+	border-radius: 5px;
+}
